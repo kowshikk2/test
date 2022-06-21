@@ -1,1 +1,1 @@
-[# test](https://kowshikk2.github.io/test/)
+https://kowshikk2.github.io/test/
